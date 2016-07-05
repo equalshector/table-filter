@@ -12,6 +12,6 @@ This code requires jQuery 1.10 or higher.
 Make sure to put jQuery before this snippet.
 
 ##How to use
-1. You must create an input field with the class "table-filter".
-2. Your table tag must include the class "search-table".
+1. You must create an input field with the class "**table-filter**".
+2. Your table tag must include the class "**search-table**".
 3. If you want to include the first row please delete this part of the script: ".not('.search-table tr:first')".
